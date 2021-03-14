@@ -2,7 +2,7 @@
 Nei
 
 Command prompt game from original idea.
-Run game via Hovedprogram.java
+Run game via Main.java
 
 :::::::
 PRO TIP: Run game for a few seconds, then cancel. 
