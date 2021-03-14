@@ -6,7 +6,7 @@ Updates game until game is lost.
 
 */
 
-class Hovedprogram {
+class Main {
   public static void main(String[] args) throws InterruptedException{
     Game game = new Game(200, 25); // length (number of characters), height (number of characters)
 
