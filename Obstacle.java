@@ -1,10 +1,8 @@
 /**
 
 Represents an obstacle.
-Obstacle has a left position which
-is continously updated.
-Array with same length as game get
-represents which "pixels" are blocked.
+Obstacle has a left position which is continously updated.
+An Array with same length as game get represents which "pixels" are blocked.
 
 */
 public class Obstacle {
