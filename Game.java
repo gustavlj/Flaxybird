@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
 
-Game class create, keeps track of and affects objects
+Game class creates, keeps track of and affects objects
 Update method (called from main) moves objects
 and checks for collisions
 Prints screen after each update
